@@ -306,6 +306,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Kullandığımız Malzemeler */
+.button-kulland---m-z-malzemeler {
+    --button-text: #ffffff;
+    --button-background: #2457f5;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Ko-fi */
 .button-ko-fi {
 	--button-text:#ffffff;
@@ -533,6 +540,13 @@
 .button-substack {
 	--button-text:#ffffff;
 	--button-background:#FF6719;
+}
+
+/* Şefin Tavsiyeleri */
+.button--efin-tavsiyeleri {
+    --button-text: #ffffff;
+    --button-background: #2457f5;
+    --button-border: 1px solid #FFFFFF;
 }
 
 /* Telegram */
