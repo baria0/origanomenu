@@ -110,6 +110,13 @@
   --button-border:1px solid #FFFFFF;
 }
 
+/* Bizi Değerlendirin*/
+.button.review {
+	--button-text:#ffffff;
+	--button-background:#034731;
+	
+}
+
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
@@ -309,7 +316,7 @@
 /* Kullandığımız Malzemeler */
 .button-kulland---m-z-malzemeler {
     --button-text: #ffffff;
-    --button-background: #034731;
+    --button-background: #013221;
     
 }
 
@@ -417,6 +424,13 @@
     --button-text: #000000;
     --button-background: #ffffff;
     --button-border: 1px solid #000000;
+}
+
+/* Origano'nun Hikayesi*/
+.button.us {
+	--button-text:#ffffff;
+	--button-background:#075a3a;
+	
 }
 
 /* Patreon */
