@@ -34,14 +34,14 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
-	--button-border:1px solid #ffffff;
+	--button-background:#034731;
+	
 }
 
 /* Alkol Menüsü */
 .button-alkol-men-s- {
     --button-text: #ffffff;
-    --button-background: #f52424;
+    --button-background: #720018;
 }
 
 /* Amazon */
@@ -309,8 +309,8 @@
 /* Kullandığımız Malzemeler */
 .button-kulland---m-z-malzemeler {
     --button-text: #ffffff;
-    --button-background: #2457f5;
-    --button-border: 1px solid #FFFFFF;
+    --button-background: #034731;
+    
 }
 
 /* Ko-fi */
@@ -545,8 +545,8 @@
 /* Şefin Tavsiyeleri */
 .button--efin-tavsiyeleri {
     --button-text: #ffffff;
-    --button-background: #2457f5;
-    --button-border: 1px solid #FFFFFF;
+    --button-background: #034731;
+    
 }
 
 /* Telegram */
